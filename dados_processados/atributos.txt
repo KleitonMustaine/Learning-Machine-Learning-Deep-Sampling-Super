@@ -1,0 +1,2 @@
+ATRIBUTOS = ['grid', 'largada_pitlane', 'gap_pole_pct', 'pil_pontos_antes', 'pil_pos_antes', 'pil_vitorias_antes', 'eqp_pontos_antes', 'eqp_pos_antes', 'pil_media_pos_ult5', 'pil_taxa_podio_ult10', 'eqp_media_pos_ult5', 'eqp_taxa_abandono_ult10', 'pil_experiencia', 'pil_idade', 'rodada_frac']
+TARGET = 'podio'
