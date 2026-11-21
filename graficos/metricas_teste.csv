@@ -1,0 +1,2 @@
+acuracia,precisao,recall,f1,VP,FP,FN,VN
+0.8477,0.4839,0.9091,0.6316,120,128,12,659

@@ -1,0 +1,133 @@
+raceId,year,driverId,constructorId,prob,podio_real,rank_prev,podio_prev,piloto,equipe,gp,pos_real
+1126,2025,845,117,0.90205,1,1,1,Lando Norris,McLaren,Australian Grand Prix,1
+1126,2025,831,191,0.8810818,1,2,1,Max Verstappen,Red Bull,Australian Grand Prix,2
+1126,2025,857,117,0.8770334,0,3,1,Oscar Piastri,McLaren,Australian Grand Prix,9
+1127,2025,845,117,0.90428424,1,1,1,Lando Norris,McLaren,Chinese Grand Prix,2
+1127,2025,857,117,0.89254224,1,2,1,Oscar Piastri,McLaren,Chinese Grand Prix,1
+1127,2025,831,191,0.88118833,0,3,1,Max Verstappen,Red Bull,Chinese Grand Prix,4
+1128,2025,831,191,0.91185635,1,1,1,Max Verstappen,Red Bull,Japanese Grand Prix,1
+1128,2025,845,117,0.9102914,1,2,1,Lando Norris,McLaren,Japanese Grand Prix,2
+1128,2025,857,117,0.8957799,1,3,1,Oscar Piastri,McLaren,Japanese Grand Prix,3
+1129,2025,857,117,0.90850407,1,1,1,Oscar Piastri,McLaren,Bahrain Grand Prix,1
+1129,2025,831,191,0.8687786,0,2,1,Max Verstappen,Red Bull,Bahrain Grand Prix,6
+1129,2025,843,6,0.8657519,0,3,1,Charles Leclerc,Ferrari,Bahrain Grand Prix,4
+1130,2025,831,191,0.9203815,1,1,1,Max Verstappen,Red Bull,Saudi Arabian Grand Prix,2
+1130,2025,857,117,0.913795,1,2,1,Oscar Piastri,McLaren,Saudi Arabian Grand Prix,1
+1130,2025,847,48,0.86000645,0,3,1,George Russell,Mercedes,Saudi Arabian Grand Prix,5
+1131,2025,857,117,0.5780038,1,1,1,Oscar Piastri,McLaren,Miami Grand Prix,1
+1131,2025,831,191,0.5383154,0,2,1,Max Verstappen,Red Bull,Miami Grand Prix,4
+1131,2025,845,117,0.4325574,1,3,1,Lando Norris,McLaren,Miami Grand Prix,2
+1132,2025,857,117,0.92601174,1,1,1,Oscar Piastri,McLaren,Emilia Romagna Grand Prix,3
+1132,2025,831,191,0.9156325,1,2,1,Max Verstappen,Red Bull,Emilia Romagna Grand Prix,1
+1132,2025,845,117,0.865486,1,3,1,Lando Norris,McLaren,Emilia Romagna Grand Prix,2
+1133,2025,857,117,0.9200782,1,1,1,Oscar Piastri,McLaren,Monaco Grand Prix,3
+1133,2025,831,191,0.90723014,0,2,1,Max Verstappen,Red Bull,Monaco Grand Prix,4
+1133,2025,845,117,0.9037825,1,3,1,Lando Norris,McLaren,Monaco Grand Prix,1
+1134,2025,857,117,0.9243806,1,1,1,Oscar Piastri,McLaren,Spanish Grand Prix,1
+1134,2025,831,191,0.9184068,0,2,1,Max Verstappen,Red Bull,Spanish Grand Prix,10
+1134,2025,845,117,0.9068139,1,3,1,Lando Norris,McLaren,Spanish Grand Prix,2
+1135,2025,857,117,0.9221199,0,1,1,Oscar Piastri,McLaren,Canadian Grand Prix,4
+1135,2025,831,191,0.9184509,1,2,1,Max Verstappen,Red Bull,Canadian Grand Prix,2
+1135,2025,847,48,0.8972239,1,3,1,George Russell,Mercedes,Canadian Grand Prix,1
+1136,2025,857,117,0.92112905,1,1,1,Oscar Piastri,McLaren,Austrian Grand Prix,2
+1136,2025,845,117,0.91569644,1,2,1,Lando Norris,McLaren,Austrian Grand Prix,1
+1136,2025,847,48,0.8476379,0,3,1,George Russell,Mercedes,Austrian Grand Prix,5
+1137,2025,857,117,0.92484045,1,1,1,Oscar Piastri,McLaren,British Grand Prix,2
+1137,2025,831,191,0.9222136,0,2,1,Max Verstappen,Red Bull,British Grand Prix,5
+1137,2025,845,117,0.91348207,1,3,1,Lando Norris,McLaren,British Grand Prix,1
+1138,2025,845,117,0.9240395,1,1,1,Lando Norris,McLaren,Belgian Grand Prix,2
+1138,2025,857,117,0.9234204,1,2,1,Oscar Piastri,McLaren,Belgian Grand Prix,1
+1138,2025,831,191,0.9073686,0,3,1,Max Verstappen,Red Bull,Belgian Grand Prix,4
+1139,2025,857,117,0.92516273,1,1,1,Oscar Piastri,McLaren,Hungarian Grand Prix,2
+1139,2025,845,117,0.9167661,1,2,1,Lando Norris,McLaren,Hungarian Grand Prix,1
+1139,2025,847,48,0.8735159,1,3,1,George Russell,Mercedes,Hungarian Grand Prix,3
+1140,2025,857,117,0.9256551,1,1,1,Oscar Piastri,McLaren,Dutch Grand Prix,1
+1140,2025,845,117,0.9227745,0,2,1,Lando Norris,McLaren,Dutch Grand Prix,18
+1140,2025,831,191,0.90785056,1,3,1,Max Verstappen,Red Bull,Dutch Grand Prix,2
+1141,2025,857,117,0.92454994,1,1,1,Oscar Piastri,McLaren,Italian Grand Prix,3
+1141,2025,845,117,0.92258525,1,2,1,Lando Norris,McLaren,Italian Grand Prix,2
+1141,2025,831,191,0.9188484,1,3,1,Max Verstappen,Red Bull,Italian Grand Prix,1
+1142,2025,831,191,0.9249528,1,1,1,Max Verstappen,Red Bull,Azerbaijan Grand Prix,1
+1142,2025,857,117,0.9048381,0,2,1,Oscar Piastri,McLaren,Azerbaijan Grand Prix,20
+1142,2025,845,117,0.9015404,0,3,1,Lando Norris,McLaren,Azerbaijan Grand Prix,7
+1143,2025,857,117,0.9255189,0,1,1,Oscar Piastri,McLaren,Singapore Grand Prix,4
+1143,2025,831,191,0.9253537,1,2,1,Max Verstappen,Red Bull,Singapore Grand Prix,2
+1143,2025,845,117,0.91261107,1,3,1,Lando Norris,McLaren,Singapore Grand Prix,3
+1144,2025,831,191,0.9273528,1,1,1,Max Verstappen,Red Bull,United States Grand Prix,1
+1144,2025,845,117,0.9211359,1,2,1,Lando Norris,McLaren,United States Grand Prix,2
+1144,2025,857,117,0.91701186,0,3,1,Oscar Piastri,McLaren,United States Grand Prix,5
+1145,2025,845,117,0.9232947,1,1,1,Lando Norris,McLaren,Mexico City Grand Prix,1
+1145,2025,831,191,0.9199154,1,2,1,Max Verstappen,Red Bull,Mexico City Grand Prix,3
+1145,2025,857,117,0.9104909,0,3,1,Oscar Piastri,McLaren,Mexico City Grand Prix,5
+1146,2025,845,117,0.9227427,1,1,1,Lando Norris,McLaren,São Paulo Grand Prix,1
+1146,2025,857,117,0.91780144,0,2,1,Oscar Piastri,McLaren,São Paulo Grand Prix,5
+1146,2025,847,48,0.79775256,0,3,1,George Russell,Mercedes,São Paulo Grand Prix,4
+1147,2025,845,117,0.9244389,0,1,1,Lando Norris,McLaren,Las Vegas Grand Prix,19
+1147,2025,831,191,0.9236264,1,2,1,Max Verstappen,Red Bull,Las Vegas Grand Prix,1
+1147,2025,857,117,0.90812474,0,3,1,Oscar Piastri,McLaren,Las Vegas Grand Prix,20
+1148,2025,857,117,0.9257381,1,1,1,Oscar Piastri,McLaren,Qatar Grand Prix,2
+1148,2025,845,117,0.92498577,0,2,1,Lando Norris,McLaren,Qatar Grand Prix,4
+1148,2025,831,191,0.92365205,1,3,1,Max Verstappen,Red Bull,Qatar Grand Prix,1
+1149,2025,831,191,0.92861825,1,1,1,Max Verstappen,Red Bull,Abu Dhabi Grand Prix,1
+1149,2025,845,117,0.9228005,1,2,1,Lando Norris,McLaren,Abu Dhabi Grand Prix,3
+1149,2025,857,117,0.9186269,1,3,1,Oscar Piastri,McLaren,Abu Dhabi Grand Prix,2
+1150,2026,847,48,0.8897222,1,1,1,George Russell,Mercedes,Australian Grand Prix,1
+1150,2026,863,48,0.8316804,1,2,1,Andrea Kimi Antonelli,Mercedes,Australian Grand Prix,2
+1150,2026,845,117,0.7817895,0,3,1,Lando Norris,McLaren,Australian Grand Prix,5
+1151,2026,847,48,0.9063283,1,1,1,George Russell,Mercedes,Chinese Grand Prix,2
+1151,2026,863,48,0.87900484,1,2,1,Andrea Kimi Antonelli,Mercedes,Chinese Grand Prix,1
+1151,2026,843,6,0.8230509,0,3,1,Charles Leclerc,Ferrari,Chinese Grand Prix,4
+1152,2026,863,48,0.9061663,1,1,1,Andrea Kimi Antonelli,Mercedes,Japanese Grand Prix,1
+1152,2026,847,48,0.905923,0,2,1,George Russell,Mercedes,Japanese Grand Prix,4
+1152,2026,843,6,0.8147289,1,3,1,Charles Leclerc,Ferrari,Japanese Grand Prix,3
+1153,2026,863,48,0.91762584,1,1,1,Andrea Kimi Antonelli,Mercedes,Miami Grand Prix,1
+1153,2026,831,191,0.8811303,0,2,1,Max Verstappen,Red Bull,Miami Grand Prix,5
+1153,2026,843,6,0.86287093,0,3,1,Charles Leclerc,Ferrari,Miami Grand Prix,8
+1154,2026,863,48,0.91993535,1,1,1,Andrea Kimi Antonelli,Mercedes,Canadian Grand Prix,1
+1154,2026,847,48,0.90758014,0,2,1,George Russell,Mercedes,Canadian Grand Prix,19
+1154,2026,845,117,0.883622,0,3,1,Lando Norris,McLaren,Canadian Grand Prix,18
+1155,2026,863,48,0.926553,1,1,1,Andrea Kimi Antonelli,Mercedes,Monaco Grand Prix,1
+1155,2026,831,191,0.8925876,0,2,1,Max Verstappen,Red Bull,Monaco Grand Prix,22
+1155,2026,795,6,0.8238046,1,3,1,Lewis Hamilton,Ferrari,Monaco Grand Prix,2
+1156,2026,863,48,0.92512786,0,1,1,Andrea Kimi Antonelli,Mercedes,Barcelona Grand Prix,16
+1156,2026,847,48,0.9084605,1,2,1,George Russell,Mercedes,Barcelona Grand Prix,2
+1156,2026,795,6,0.879124,1,3,1,Lewis Hamilton,Ferrari,Barcelona Grand Prix,1
+1157,2026,863,48,0.92478067,1,1,1,Andrea Kimi Antonelli,Mercedes,Austrian Grand Prix,3
+1157,2026,847,48,0.9127886,1,2,1,George Russell,Mercedes,Austrian Grand Prix,1
+1157,2026,795,6,0.8943908,0,3,1,Lewis Hamilton,Ferrari,Austrian Grand Prix,5
+1158,2026,863,48,0.92906845,0,1,1,Andrea Kimi Antonelli,Mercedes,British Grand Prix,15
+1158,2026,847,48,0.9019883,1,2,1,George Russell,Mercedes,British Grand Prix,2
+1158,2026,795,6,0.8941928,1,3,1,Lewis Hamilton,Ferrari,British Grand Prix,3
+1159,2026,863,48,0.929161,1,1,1,Andrea Kimi Antonelli,Mercedes,Belgian Grand Prix,1
+1159,2026,847,48,0.9083791,0,2,1,George Russell,Mercedes,Belgian Grand Prix,22
+1159,2026,795,6,0.86998695,0,3,1,Lewis Hamilton,Ferrari,Belgian Grand Prix,4
+1160,2026,863,48,0.9225925,1,1,1,Andrea Kimi Antonelli,Mercedes,Hungarian Grand Prix,3
+1160,2026,843,6,0.8929591,0,2,1,Charles Leclerc,Ferrari,Hungarian Grand Prix,4
+1160,2026,795,6,0.8815822,0,3,1,Lewis Hamilton,Ferrari,Hungarian Grand Prix,5
+1161,2026,863,48,0.928378,1,1,1,Andrea Kimi Antonelli,Mercedes,Dutch Grand Prix,2
+1161,2026,847,48,0.9135203,1,2,1,George Russell,Mercedes,Dutch Grand Prix,3
+1161,2026,845,117,0.9084613,1,3,1,Lando Norris,McLaren,Dutch Grand Prix,1
+1162,2026,847,48,0.91018194,1,1,1,George Russell,Mercedes,Italian Grand Prix,2
+1162,2026,795,6,0.87025344,0,2,1,Lewis Hamilton,Ferrari,Italian Grand Prix,6
+1162,2026,843,6,0.8582528,0,3,1,Charles Leclerc,Ferrari,Italian Grand Prix,22
+1163,2026,863,48,0.9289775,1,1,1,Andrea Kimi Antonelli,Mercedes,Spanish Grand Prix,1
+1163,2026,845,117,0.9150164,1,2,1,Lando Norris,McLaren,Spanish Grand Prix,3
+1163,2026,795,6,0.87742144,0,3,1,Lewis Hamilton,Ferrari,Spanish Grand Prix,22
+1164,2026,847,48,0.9105026,1,1,1,George Russell,Mercedes,Azerbaijan Grand Prix,1
+1164,2026,843,6,0.8631817,0,2,1,Charles Leclerc,Ferrari,Azerbaijan Grand Prix,4
+1164,2026,845,117,0.84323525,0,3,1,Lando Norris,McLaren,Azerbaijan Grand Prix,19
+1165,2026,863,48,0.9245964,1,1,1,Andrea Kimi Antonelli,Mercedes,Bahrain Grand Prix in Malaysia,2
+1165,2026,795,6,0.8914253,1,2,1,Lewis Hamilton,Ferrari,Bahrain Grand Prix in Malaysia,3
+1165,2026,831,191,0.8810891,1,3,1,Max Verstappen,Red Bull,Bahrain Grand Prix in Malaysia,1
+1166,2026,863,48,0.9240928,1,1,1,Andrea Kimi Antonelli,Mercedes,Singapore Grand Prix,3
+1166,2026,831,191,0.90225446,1,2,1,Max Verstappen,Red Bull,Singapore Grand Prix,1
+1166,2026,795,6,0.8763498,0,3,1,Lewis Hamilton,Ferrari,Singapore Grand Prix,6
+1167,2026,863,48,0.92733794,1,1,1,Andrea Kimi Antonelli,Mercedes,United States Grand Prix,1
+1167,2026,831,191,0.89967084,1,2,1,Max Verstappen,Red Bull,United States Grand Prix,3
+1167,2026,847,48,0.8625225,0,3,1,George Russell,Mercedes,United States Grand Prix,8
+1168,2026,863,48,0.92412657,1,1,1,Andrea Kimi Antonelli,Mercedes,Mexico City Grand Prix,3
+1168,2026,847,48,0.9026531,0,2,1,George Russell,Mercedes,Mexico City Grand Prix,6
+1168,2026,795,6,0.88247234,1,3,1,Lewis Hamilton,Ferrari,Mexico City Grand Prix,2
+1169,2026,863,48,0.9225,0,1,1,Andrea Kimi Antonelli,Mercedes,Brazilian Grand Prix,5
+1169,2026,845,117,0.8707661,1,2,1,Lando Norris,McLaren,Brazilian Grand Prix,1
+1169,2026,847,48,0.8314066,0,3,1,George Russell,Mercedes,Brazilian Grand Prix,4

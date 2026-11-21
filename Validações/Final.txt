@@ -1,0 +1,27 @@
+=== RESULTADO NO CONJUNTO DE TESTE ===
+ acuracia: 0.848
+ precisao: 0.484
+   recall: 0.909
+       f1: 0.632
+       VP: 120
+       FP: 128
+       FN: 12
+       VN: 659
+
+Top-3 por corrida: 63.6% dos pilotos previstos no pódio realmente subiram ao pódio
+ year                       gp  rank_prev          piloto   equipe  prob  pos_real
+ 2025    Australian Grand Prix          1    Lando Norris  McLaren 0.902         1
+ 2025    Australian Grand Prix          2  Max Verstappen Red Bull 0.881         2
+ 2025    Australian Grand Prix          3   Oscar Piastri  McLaren 0.877         9
+ 2025       Chinese Grand Prix          1    Lando Norris  McLaren 0.904         2
+ 2025       Chinese Grand Prix          2   Oscar Piastri  McLaren 0.893         1
+ 2025       Chinese Grand Prix          3  Max Verstappen Red Bull 0.881         4
+ 2025      Japanese Grand Prix          1  Max Verstappen Red Bull 0.912         1
+ 2025      Japanese Grand Prix          2    Lando Norris  McLaren 0.910         2
+ 2025      Japanese Grand Prix          3   Oscar Piastri  McLaren 0.896         3
+ 2025       Bahrain Grand Prix          1   Oscar Piastri  McLaren 0.909         1
+ 2025       Bahrain Grand Prix          2  Max Verstappen Red Bull 0.869         6
+ 2025       Bahrain Grand Prix          3 Charles Leclerc  Ferrari 0.866         4
+ 2025 Saudi Arabian Grand Prix          1  Max Verstappen Red Bull 0.920         2
+ 2025 Saudi Arabian Grand Prix          2   Oscar Piastri  McLaren 0.914         1
+ 2025 Saudi Arabian Grand Prix          3  George Russell Mercedes 0.860         5
